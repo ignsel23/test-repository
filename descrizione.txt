@@ -1,2 +1,4 @@
 
 Ciao2
+
+Ciao da locale
